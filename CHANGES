@@ -1,0 +1,30 @@
+22-11-09 3.1.2 Release
+
+- MD3 parser and Terrain Generator (Russell Weir)
+- experimental lazy BSP object sorting (Makc)
+- display cache system (Thomas Pfeiffer)
+- vertexwelder utility class (Gregorius Soedharmo)
+- plenty of bug fixes
+
+08-04-09 3.1.1 Release
+
+- version matches AS3 tag
+- addition of a dispose method to materials
+- flash9 XML API wrapped for faster Collada parsing
+- removed xpath rependency
+- extrusion package
+- smart cache system to save a lot of cycles
+- MD2 animated models format support.
+- mode7 renderer to render infinite planes/floors
+- environment mapping
+- better typing and lots of bug fixes
+
+05-09-08 0.2 Release of 3.0.2 Sandy branch
+
+- Performance patches.
+- Starfield classes.
+- Collada parser from trunk.
+
+19-08-08 0.1 Release of 3.0.2 Sandy branch
+
+- All 3.0.2 classes implemented and tested against existing examples.

@@ -1,0 +1,4 @@
+-cp ../../
+-swf9 gouraudshading.swf
+-main GouraudShading
+

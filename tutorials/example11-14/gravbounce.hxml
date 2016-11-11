@@ -1,0 +1,5 @@
+-cp ../../
+-cp ../assets
+-swf-lib lib.swf
+-swf9 gravbounce.swf
+-main GravBounce

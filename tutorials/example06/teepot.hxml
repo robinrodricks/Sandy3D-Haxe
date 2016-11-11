@@ -1,0 +1,5 @@
+-cp ../../
+-cp ../assets
+-swf9 teepot.swf
+-main TeePot
+

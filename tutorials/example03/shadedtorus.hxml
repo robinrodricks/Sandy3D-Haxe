@@ -1,0 +1,4 @@
+-cp ../../
+-swf9 shadedtorus.swf
+-main ShadedTorus
+

@@ -1,0 +1,7 @@
+# To generate the docs
+#
+# First one needs the XML
+haxe -cp ../../src -swf9 excessively-verbose.swf --no-output -xml sandyhaxe.xml ImportAll
+
+# Assuming chxdoc is in your $PATH, the command to generate the documentation is
+chxdoc -o ../../docs --tmpDir=_chxdoctmp --templateDir=sandy --installTemplate=true --headerTextFile=sandy/headerfile.txt --footerTextFile=sandy/footerfile.txt --ignoreRoot=true --exclude=flash,haxe --developer=false sandyhaxe.xml

@@ -1,0 +1,6 @@
+<project name="sandy" url="http://code.google.com/p/sandy" license="BSD">
+    <user name="niel"/>
+    <user name="Madrok"/>
+    <description>Sandy is a flexible, intuitive and user-friendly 3D open-source library.</description>
+    <version name="3.1.2">3.1.2 Tag</version>
+</project>

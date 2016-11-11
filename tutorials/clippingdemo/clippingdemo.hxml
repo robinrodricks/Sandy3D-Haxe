@@ -1,0 +1,4 @@
+-cp ../../
+-swf-lib lib.swf
+-swf9 clippingdemo.swf
+-main ClippingDemo

@@ -1,0 +1,4 @@
+-cp ../../
+-swf9 smoothshading.swf
+-main SmoothShading
+

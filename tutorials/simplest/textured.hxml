@@ -1,0 +1,5 @@
+-cp ../../
+-swf9 textured.swf
+-swf-lib palm.swf
+-main Textured
+

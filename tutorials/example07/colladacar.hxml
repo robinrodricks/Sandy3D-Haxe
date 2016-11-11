@@ -1,0 +1,5 @@
+-cp ../../
+-cp ../assets
+-swf9 colladacar.swf
+-main ColladaCar
+

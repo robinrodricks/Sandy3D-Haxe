@@ -1,0 +1,3 @@
+-cp ../../
+-swf9 animbox.swf
+-main AnimBox

@@ -1,0 +1,13 @@
+Lots of people have helped the sandy-haxe port, by contributing tutorials, bug
+reports, patches and good old blog posts. The main contributors for the haXe releases 
+were:
+
+Thomas Pfeiffer | sandy author
+Niel Drummond | initial haXe port, maintenance and neash integration
+Russell Weir | sandy-hx trunk code and features implementor
+Maksym Zubkov | bug fixes and tutorials
+Bertil Gralvik | documentation, tutorials and website maintenance
+Max Pellizzaro | tutorials
+Justin Lawerance Mills and Guy Wheeler | bug reports and tutorials
+
+If you feel you should be mentioned please contact us on the sandy mailing list.

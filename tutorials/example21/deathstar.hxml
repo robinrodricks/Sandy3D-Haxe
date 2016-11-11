@@ -1,0 +1,5 @@
+-cp ../../
+-swf-lib lib.swf
+-swf9 deathstar.swf
+-main Deathstar
+

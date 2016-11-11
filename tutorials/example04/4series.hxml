@@ -1,0 +1,18 @@
+-cp ../../
+-swf9 conehedra.swf
+-main ConeHedra
+--next
+
+-cp ../../
+-swf9 table.swf
+-main Table
+--next
+
+-cp ../../
+-swf9 forest.swf
+-main Forest
+--next
+
+-cp ../../
+-swf9 airplane.swf
+-main Airplane

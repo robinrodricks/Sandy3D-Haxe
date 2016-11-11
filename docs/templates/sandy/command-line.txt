@@ -1,0 +1,1 @@
+chxdoc -o docs --tmpDir=_chxdoctmp --templateDir=templates/sandy --installTemplate=true --title="All packages" --subtitle="" --footerTextFile=templates/sandy/footerfile.txt --headerTextFile=templates/sandy/headerfile.txt --ignoreRoot=true --exclude=flash,haxe --developer=false sandyhaxe.xml
